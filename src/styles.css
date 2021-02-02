@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Center {
+  text-align: center;
+}
+
+.boxShadowA {
+  -webkit-box-shadow: 6px 6px 9px -3px #000000;
+  box-shadow: 6px 6px 9px -3px #000000;
+}
+
+.boxA {
+}
