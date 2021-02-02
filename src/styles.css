@@ -7,9 +7,11 @@
 }
 
 .boxShadowA {
-  -webkit-box-shadow: 6px 6px 9px -3px #000000;
   box-shadow: 6px 6px 9px -3px #000000;
 }
 
 .boxA {
+  width: 75px;
+  height: 75px;
+  border: 1px;
 }
